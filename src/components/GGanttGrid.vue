@@ -36,7 +36,7 @@ const { timeaxisUnits } = useTimeaxisUnits()
 }
 
 .g-grid-line {
-  width: 1px;
+  width: 3px;
   height: 100%;
   border-left: 1px solid #eaeaea;
 }
